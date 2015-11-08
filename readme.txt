@@ -2,6 +2,20 @@
 R Packages - Coursera Developing Data Products
 
 downloaded Rtools33.exe and ran.
+
+build package
+
+push to GitHub
+
+https://www.opencpu.org/api.html
+
+GitHub CI Hook
+
+https://public.opencpu.org/ocpu/webhook
+
+
+
+
  
 curl installed.
 
